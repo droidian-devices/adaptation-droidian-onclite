@@ -1,0 +1,6 @@
+kernel/fs/efivarfs/efivarfs.ko
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/char/rdbg.ko
+kernel/drivers/media/platform/msm/dvb/adapter/mpq-adapter.ko
+kernel/drivers/media/platform/msm/dvb/demux/mpq-dmx-hw-plugin.ko
+kernel/net/bridge/br_netfilter.ko
