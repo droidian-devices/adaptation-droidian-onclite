@@ -2,4 +2,7 @@
 /etc/udev/rules.d
 /usr/bin
 /usr/share/keyrings
+/usr/share/applications
+/usr/share/icons
 /lib/modules/
+
