@@ -2,4 +2,4 @@
 /etc/udev/rules.d
 /usr/bin
 /usr/share/keyrings
-/
+/lib/modules/
