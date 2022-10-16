@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/droidian-onclite/adaptation-droidian-onclite.git
 Package: adaptation-droidian-onclite
 Architecture: all
 Depends: ${misc:Depends},
-         adaptation-hybris-api29-phone,
+         adaptation-hybris-api28-phone,
          adaptation-onclite-configs,
 Description: adaptation-onclite-meta
  onclite api28 adaptation metapackage
