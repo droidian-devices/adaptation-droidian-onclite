@@ -1,1 +1,2 @@
 /usr/lib/adaptation-droidian-onclite/sources.list.d/onclite.list /etc/apt/sources.list.d/onclite.list
+/usr/lib/adaptation-droidian-onclite/sources.list.d/fakeshell.list /etc/apt/sources.list.d/fakeshell.list
