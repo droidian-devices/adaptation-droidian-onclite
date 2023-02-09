@@ -1,5 +1,5 @@
-adaptation-droidian-onclite (0.0.0+git202301135092736.88cb61b.main) main; urgency=medium
+adaptation-droidian-onclite (0.0.0+git202302095092736.88cb61b.main) main; urgency=medium
 
-  * upstream batman
+  * add preferred hostname and fix brightness node permissions
 
- -- fakeshell <fakeshell@bardia.tech>  Fri, 13 Jan 2022 14:58:25 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Thu, 9 Feb 2023 21:45:25 +0330
