@@ -1,5 +1,5 @@
-adaptation-droidian-onclite (0.0.0+git202302095092736.88cb61b.main) main; urgency=medium
+adaptation-droidian-onclite (0.0.0+git202302145092736.88cb61b.main) main; urgency=medium
 
-  * add preferred hostname and fix brightness node permissions
+  * drop modules to use kernel packagings modules
 
- -- fakeshell <fakeshell@bardia.tech>  Thu, 9 Feb 2023 21:45:25 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Tue, 14 Feb 2023 16:32:25 +0330

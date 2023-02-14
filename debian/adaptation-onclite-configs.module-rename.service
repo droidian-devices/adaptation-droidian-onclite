@@ -1,0 +1,11 @@
+[Unit]
+Description=Rename the module directory to the correct kernel name
+Requires=lxc@android.service
+After=lxc@android.service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c 'export DIR=$(ls /lib/modules/ | grep -v $(uname -r)) && if [[ $DIR != "" ]]; then mv /lib/modules/$DIR /lib/modules/$(uname -r); fi'
+
+[Install]
+WantedBy=multi-user.target
