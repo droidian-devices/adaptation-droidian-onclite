@@ -3,11 +3,11 @@ Upstream-Name: adaptation-droidian-onclite
 Source: https://github.com/droidian-onclite/adaptation-droidian-onclite.git
 
 Files: *
-Copyright: Bardia Moshiri
+Copyright: 2023 Bardia Moshiri
 License: BSD-3-clause
 
 Files: debian/*
-Copyright: Bardia Moshiri
+Copyright: 2023 Bardia Moshiri
 License: BSD-3-clause
 
 License: BSD-3-clause
