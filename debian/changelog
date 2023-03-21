@@ -1,5 +1,5 @@
-adaptation-droidian-onclite (0.0.0+git202303195092736.266a316.main) main; urgency=medium
+adaptation-droidian-onclite (0.0.0+git202303195092736.7a689ce.main) main; urgency=medium
 
-  * drop modules-rename
+  * add wlr-randr as a dependency
 
- -- fakeshell <fakeshell@bardia.tech>  Sun, 19 Mar 2023 15:31:12 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Tue, 21 Mar 2023 22:49:12 +0330
