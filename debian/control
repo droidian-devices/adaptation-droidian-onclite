@@ -12,6 +12,7 @@ Architecture: all
 Depends: ${misc:Depends},
          adaptation-hybris-api28-phone,
          adaptation-onclite-configs,
+         wlr-randr,
 Description: adaptation-onclite-meta
  onclite api28 adaptation metapackage
 
