@@ -4,14 +4,15 @@ Section: metapackages
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://github.com/droidian-onclite/adaptation-droidian-onclite
-Vcs-Git: https://github.com/droidian-onclite/adaptation-droidian-onclite.git
+Vcs-Browser: https://github.com/droidian-devices/adaptation-droidian-onclite
+Vcs-Git: https://github.com/droidian-devices/adaptation-droidian-onclite.git
 
 Package: adaptation-droidian-onclite
 Architecture: all
 Depends: ${misc:Depends},
          adaptation-hybris-api28-phone,
          adaptation-onclite-configs,
+         linux-bootimage-xiaomi-onclite,
          wlr-randr,
 Description: adaptation-onclite-meta
  onclite api28 adaptation metapackage

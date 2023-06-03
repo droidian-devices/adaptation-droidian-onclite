@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: adaptation-droidian-onclite
-Source: https://github.com/droidian-onclite/adaptation-droidian-onclite.git
+Source: https://github.com/droidian-devices/adaptation-droidian-onclite.git
 
 Files: *
 Copyright: 2023 Bardia Moshiri

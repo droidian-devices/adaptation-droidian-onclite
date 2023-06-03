@@ -1,1 +1,0 @@
-deb [arch=arm64 signed-by=/usr/share/keyrings/onclite.gpg] http://mirror.bardia.tech/onclite bookworm main
