@@ -13,7 +13,7 @@ Depends: ${misc:Depends},
          adaptation-hybris-api28-phone,
          adaptation-onclite-configs,
          linux-bootimage-xiaomi-onclite,
-         wlr-randr,
+         batman,
 Description: adaptation-onclite-meta
  onclite api28 adaptation metapackage
 
