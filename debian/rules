@@ -4,5 +4,4 @@
 	dh $@
 
 override_dh_installsystemd:
-	dh_installsystemd -padaptation-onclite-configs --name=batman batman.service --no-start
 	dh_installsystemd -padaptation-onclite-configs --name=brightnessperm brightnessperm.service --no-start
