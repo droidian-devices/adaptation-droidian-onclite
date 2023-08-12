@@ -5,6 +5,7 @@ After=phosh.service
 
 [Service]
 Type=oneshot
+ExecStartPre=/bin/sleep 5
 ExecStart=/bin/sh -c 'echo 255 > /sys/class/leds/lcd-backlight/brightness'
 
 [Install]
